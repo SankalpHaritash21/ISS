@@ -5,6 +5,8 @@
     1. Public key → shared with everyone
     2. Private key → kept secret by the owner
 
+![RSA](image.png)
+
 Data is encrypted with one key can only be decrypted with the other key.
 
 - RSA(Rivest–Shamir–Adleman) is a public-key cryptography algorithm used to secure data on the internet.
@@ -32,8 +34,6 @@ RSA uses two different keys.
 
 ** Anyone can have your public key
 But ONLY you/user have your private key **
-
-![RSA](image.png)
 
 Steps:
 
